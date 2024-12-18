@@ -36,16 +36,21 @@ Estados: Selección por estado (AL, CA, TX, etc.).
   
 * Departamentos
    Gráfico de barras mostrando la cantidad de empleados por departamento:
+  
    Producción domina con más de 2,000 empleados.
 
    Otros departamentos incluyen IT/IS, Ventas, Oficinas Administrativas, etc.
+  
 * Género
-Gráfico circular con desglose de género:
-Masculino: 56.07 % (2 mil).
+   Gráfico circular con desglose de género:
+  
+    Masculino: 56.07 % (2 mil).
 
-Femenino: 43.93 % (1 mil).
-Empleados por Estado
-Mapa de EE. UU. que representa la distribución de empleados por estado.
+    Femenino: 43.93 % (1 mil).
+  
+* Empleados por Estado
+  
+   Mapa de EE. UU. que representa la distribución de empleados por estado.
 
 ## 🎨 Tecnologías Utilizadas
 Herramienta de visualización: Power BI
