@@ -24,18 +24,23 @@ Horario: Contract | Full-Time | Part-Time.
 Estados: Selección por estado (AL, CA, TX, etc.).
 
 ## 📊 Visualizaciones Incluidas
-Tipo de Horario
+* Tipo de Horario
 Gráfico circular que desglosa empleados por:
+
 Full-Time: 34.6 % (1.04 mil).
+
 Contract: 31.8 % (0.95 mil).
+
 Part-Time: 33.6 % (1.01 mil).
-Departamentos
+* Departamentos
 Gráfico de barras mostrando la cantidad de empleados por departamento:
 Producción domina con más de 2,000 empleados.
+
 Otros departamentos incluyen IT/IS, Ventas, Oficinas Administrativas, etc.
-Género
+* Género
 Gráfico circular con desglose de género:
 Masculino: 56.07 % (2 mil).
+
 Femenino: 43.93 % (1 mil).
 Empleados por Estado
 Mapa de EE. UU. que representa la distribución de empleados por estado.
