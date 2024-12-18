@@ -60,10 +60,13 @@ Estados: Selección por estado (AL, CA, TX, etc.).
 * Diseño: Colores temáticos en tonos púrpura y rosa para mejor contraste visual.
 
 ## 🛠️ Cómo Ejecutar el Proyecto
-Clona el repositorio:
-bash Copiar código
+Clona el repositorio: 
+bash Copiar código 
+
 	git clone https://github.com/tu_usuario/MetricsLAM.git
+ 
 Abre el archivo .pbix en Power BI Desktop.
+
 Explora el dashboard y ajusta filtros según tus necesidades.
 
 ¡Gracias por visitar este proyecto! 🎉🚀
