@@ -28,11 +28,11 @@ Estados: Selección por estado (AL, CA, TX, etc.).
   
     Gráfico circular que desglosa empleados por:
 
-      Full-Time: 34.6 % (1.04 mil).
+     Full-Time: 34.6 % (1.04 mil).
  
-      Contract: 31.8 % (0.95 mil).
+     Contract: 31.8 % (0.95 mil).
 
-      Part-Time: 33.6 % (1.01 mil).
+     Part-Time: 33.6 % (1.01 mil).
   
 * Departamentos
    Gráfico de barras mostrando la cantidad de empleados por departamento:
@@ -53,9 +53,11 @@ Estados: Selección por estado (AL, CA, TX, etc.).
    Mapa de EE. UU. que representa la distribución de empleados por estado.
 
 ## 🎨 Tecnologías Utilizadas
-Herramienta de visualización: Power BI
-Lenguajes de soporte: DAX, SQL (para procesamiento de datos)
-Diseño: Colores temáticos en tonos púrpura y rosa para mejor contraste visual.
+* Herramienta de visualización: Power BI
+
+* Lenguajes de soporte: DAX, SQL (para procesamiento de datos)
+
+* Diseño: Colores temáticos en tonos púrpura y rosa para mejor contraste visual.
 
 ## 🛠️ Cómo Ejecutar el Proyecto
 Clona el repositorio:
