@@ -5,10 +5,15 @@
 Este proyecto consiste en un dashboard interactivo creado para visualizar métricas clave sobre empleados, como cantidad total, compromiso, puntuación, tipo de horario, género y distribución por estados y departamentos. El diseño moderno y visual facilita la toma de decisiones basadas en datos.
 
 ## 📈 Métricas Visualizadas
+
 El dashboard contiene las siguientes métricas:
+
 Cantidad total de empleados: 📌 3,000 empleados.
+
 Compromiso del empleado: 🧩 60.4 %.
+
 Puntuación del empleado: ⭐ 59 %.
+
 ## 🔍 Filtros disponibles
 Nombre del empleado (desplegable).
 Año: 2020 | 2021 | 2022 | 2023.
