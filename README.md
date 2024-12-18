@@ -25,6 +25,7 @@ Estados: Selección por estado (AL, CA, TX, etc.).
 
 ## 📊 Visualizaciones Incluidas
 * Tipo de Horario
+  
 Gráfico circular que desglosa empleados por:
 
 Full-Time: 34.6 % (1.04 mil).
