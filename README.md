@@ -33,11 +33,12 @@ Estados: Selección por estado (AL, CA, TX, etc.).
       Contract: 31.8 % (0.95 mil).
 
       Part-Time: 33.6 % (1.01 mil).
+  
 * Departamentos
-Gráfico de barras mostrando la cantidad de empleados por departamento:
-Producción domina con más de 2,000 empleados.
+   Gráfico de barras mostrando la cantidad de empleados por departamento:
+   Producción domina con más de 2,000 empleados.
 
-Otros departamentos incluyen IT/IS, Ventas, Oficinas Administrativas, etc.
+   Otros departamentos incluyen IT/IS, Ventas, Oficinas Administrativas, etc.
 * Género
 Gráfico circular con desglose de género:
 Masculino: 56.07 % (2 mil).
