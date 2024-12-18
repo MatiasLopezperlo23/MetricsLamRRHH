@@ -26,13 +26,13 @@ Estados: Selección por estado (AL, CA, TX, etc.).
 ## 📊 Visualizaciones Incluidas
 * Tipo de Horario
   
-Gráfico circular que desglosa empleados por:
+    Gráfico circular que desglosa empleados por:
 
-Full-Time: 34.6 % (1.04 mil).
+      Full-Time: 34.6 % (1.04 mil).
+ 
+      Contract: 31.8 % (0.95 mil).
 
-Contract: 31.8 % (0.95 mil).
-
-Part-Time: 33.6 % (1.01 mil).
+      Part-Time: 33.6 % (1.01 mil).
 * Departamentos
 Gráfico de barras mostrando la cantidad de empleados por departamento:
 Producción domina con más de 2,000 empleados.
