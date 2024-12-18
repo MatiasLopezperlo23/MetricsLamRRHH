@@ -16,8 +16,11 @@ Puntuación del empleado: ⭐ 59 %.
 
 ## 🔍 Filtros disponibles
 Nombre del empleado (desplegable).
+
 Año: 2020 | 2021 | 2022 | 2023.
+
 Horario: Contract | Full-Time | Part-Time.
+
 Estados: Selección por estado (AL, CA, TX, etc.).
 
 ## 📊 Visualizaciones Incluidas
